@@ -1,5 +1,6 @@
 # Getting Started with Create React App
-Рабочую версию приложения можно посмотреть на [GitHub Pages)(https://freylgit.github.io/react-movies/)
+Рабочую версию приложения можно посмотреть на [GitHub Pages](https://freylgit.github.io/react-movies).
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
